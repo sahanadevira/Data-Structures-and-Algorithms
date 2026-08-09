@@ -13,3 +13,4 @@ class arraylist{
     }
 void insert(int d);
 void display();
+void average();
