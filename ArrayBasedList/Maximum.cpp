@@ -14,3 +14,5 @@ int arraylist::maxElement()
             max = s[i].data;
         }
     }
+return 0;
+}
